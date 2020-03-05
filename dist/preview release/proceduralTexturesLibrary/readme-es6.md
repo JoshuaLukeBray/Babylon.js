@@ -17,7 +17,7 @@ Afterwards it can be imported to the your project using:
 
 ```
 import { StandardMaterial } from '@babylonjs/core/Materials/standardMaterial';
-import { FireProceduralTexture } from '@babylonjs/procedural-textures/fireProceduralTexture';
+import { FireProceduralTexture } from '@babylonjs/procedural-textures/fire/fireProceduralTexture';
 ```
 
 And used as usual:
